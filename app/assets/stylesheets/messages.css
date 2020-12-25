@@ -118,14 +118,14 @@
   display: flex;
 }
 
-.input-text{
+.form-message{
   border: none;
   height: 50px;
   width: 100%;
   padding-left: 10px;
 }
 
-.submit-btn{
+.form-submit{
   border: none;
   height: 50px;
   background-color: #38aef0;
